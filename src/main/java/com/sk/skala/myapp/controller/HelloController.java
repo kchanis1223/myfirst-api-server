@@ -10,7 +10,7 @@ public class HelloController {
     
     @GetMapping("/hello")
     public HelloResponse helloWorld() {
-        return new HelloResponse("SKALA에 오신 것을 환영합니다");
+        return new HelloResponse("sk178 수정 배포");
     }
 }
 
